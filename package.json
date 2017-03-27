@@ -1,0 +1,8 @@
+{
+  "name": "MongoDB-Example",
+  "version": "0.0.1",
+  "description": "nodejs data mongodb",
+  "dependencies": {
+    "mongodb": "^2.0.52"
+  }
+}
